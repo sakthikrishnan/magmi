@@ -1,1 +1,11 @@
-# magmi
+There is a question today that is bordering on the philosophical, but artificial intelligence (AI) can certainly make something that people in the world of music and artwork find pleasing.Magmi, a research project that was mainly aimed at pushing the limits of what AI can do in the field of arts as well.
+What actually is Magmi? 
+Magmi is a project from the  team that questions: Can we make the use of machine learning in order to create art and music that is compelling.
+What are its main goals?
+Magmi, the research project comes with mainly two goals:
+First of all, it’s a research project which aims at the advancement of the state of the art in machine intelligence for music and art generation. As we know that machine learning has already been used extensively to understand content by the means of speech recognition or translation. With Magmi, the team now wishes to explore the other side as well. that is the development of algorithms that can learn how to generate art and music, hence potentially creating content on their own that is both compelling and artistic. 
+Second, Magmi is an attempt to help build a community that comprises of artists, coders and machine learning researchers. The core Magmi team will make the use of TensorFlow around to build open-source infrastructure for making art and music. The team will start with support for audio and video, tools for working with formats like MIDI, and platforms that help artists connect to machine learning models.
+Now, How does Magmi compose music?
+ The team is currently not spending any effort on classical AI approaches, which build intelligence with the use of rules. "We’ve tried lots of different machine-learning techniques, including recurrent neural networks, convolutional neural networks, variational methods, adversarial training methods, and reinforcement learning. Explaining all of those buzzwords is too much for a short answer. What I can say is that they’re all different techniques for learning by example to generate something new. 
+Generation:
+The main goal  is to design algorithms that learn how to generate art and music. There’s been a lot of great work in image generation from neural networks, some of which include Neural Style Transfer. It is believed that this area as of now is in its infancy, and it can be expected to see fast progress here. For those who are into following machine learning closely, it is very clear that this progress is already well underway.
